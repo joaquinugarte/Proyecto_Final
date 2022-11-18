@@ -23,4 +23,4 @@ Es necesario que la empresa cuente con un alertamiento de transacciones que pued
 
 ### Objetivo
 
-Implementar un modelo de clasificación que nos ayude a indicar las transacciones con altas probabilidades de fraude para la toma de acciones preventivas y/o estratégicas.
+Implementar un modelo de clasificación que nos ayude a indicar las transacciones con altas probabilidades de fraude para la toma de acciones preventivas y/o estratégicas y que estas sean revisadas por los analistas asignados.
