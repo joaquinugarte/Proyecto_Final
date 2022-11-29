@@ -1,4 +1,4 @@
-# Proyecto_Final
+# Proyecto_Final_CoderHouse_Data_Scientist
  Desarrollo de un alertamiento de transacciones que pueden ser posibles fraudes a través de distintos modelos de machine learning para tomar acciones preventivas y estratégicas, el objetivo final es disminuir el número de transacciones relacionadas a un fraude.
 
 
