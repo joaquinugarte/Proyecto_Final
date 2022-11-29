@@ -4,10 +4,10 @@
 
 ### Integrantes del equipo
 
-Joaquín Ugarte
-Lucas Lis
-Issis Lobato
-Juan Flores
+Joaquín Ugarte --
+-- Lucas Lis
+-- Issis Lobato
+-- Juan Flores
 
 ### Sobre nosotros
 Somos una consultora independiente que brinda soluciones a través del análisis de datos y modelos de Machine Learning para la prevención de posibles fraudes.
